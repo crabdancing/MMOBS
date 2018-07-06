@@ -14,6 +14,8 @@
 
 #TODO: Add basic logging
 #TODO: Add proper metadata parsing so that it can give a specific line when there's an error.
+#TODO: * Add heuristical check for files containing known popular Minecraft versions other than the one we're using
+#TODO: * Modify output to make debugging a modpack easier
 
 from bs4 import BeautifulSoup
 from glob import glob
