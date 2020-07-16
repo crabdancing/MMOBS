@@ -1,1 +1,1 @@
-MOBS = MOdpack Building System
+I'm archiving this project because it relied on scraping the CurseForge website, which is a very brittle approach, and I don't feel like fixing it. I started a new project like this one that has cleaner code and works properly... until a friend told me about [Voodoo](https://github.com/daemoniclabs/voodoo), which sounds a lot better than writing my own thing, despite the config files looking horrible to write.
